@@ -1,0 +1,13 @@
+The method in Java or Methods of Java is a collection of statements that perform some specific tasks and return the result to the caller. A Java method can perform some specific tasks without returning anything. Java Methods allows us to reuse the code without retyping the code. In Java, every method must be part of some class that is different from languages like C, C++, and Python.
+
+A method is like a function i.e. used to expose the behavior of an object.
+It is a set of codes that perform a particular task.
+Syntax of Method:
+<access_modifier> <return_type> <method_name>( list_of_parameters)
+{
+    //body
+}
+Advantage of Method:
+
+Code Reusability
+Code Optimization
